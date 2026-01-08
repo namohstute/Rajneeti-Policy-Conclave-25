@@ -1,6 +1,9 @@
 Women’s Representation in Indian Politics
+
 Team: Neeti-Shastra
+
 Authors: Kanika Sharma, Adrish Chakrabarti
+
 Overview:
 This project analyzes the status of women’s political representation in India, highlighting structural challenges, constitutional measures, and comparative global insights. It evaluates the effectiveness of reservation policies and explores pathways to ensure meaningful and sustained participation of women in politics.
 
